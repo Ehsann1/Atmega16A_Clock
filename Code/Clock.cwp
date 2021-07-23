@@ -1,0 +1,5 @@
+[CodeWizard]
+Toolset=AVR
+[Chip]
+Type=ATmega16A
+CPUClock=8
